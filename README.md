@@ -1,0 +1,2 @@
+# Vscodesettingsjson
+Estilização da Ide 
